@@ -1,2 +1,1 @@
-# simple-quote-page
-repo 
+egyszeru_idezetes_oldal_
